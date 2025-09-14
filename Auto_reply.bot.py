@@ -6,7 +6,7 @@ import json
 import re
 
 # .... OpenRouter Setup ....
-API_KEY = "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"
+API_KEY = "API_KEY"
 MODEL = "openai/gpt-3.5-turbo"
 OPENROUTER_URL = "https://openrouter.ai/api/v1/chat/completions"
 
